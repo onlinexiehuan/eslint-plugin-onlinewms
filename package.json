@@ -1,0 +1,26 @@
+{
+  "name": "eslint-plugin-onlinewms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "author": "online wms",
+  "license": "MIT",
+  "dependencies": {
+    "generator-eslint": "^5.1.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin"
+  ],
+  "peerDependencies": {
+    "eslint": "^7.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-mocha": "^10.5.0",
+    "eslint-plugin-vue": "^7.20.0"
+  }
+}
