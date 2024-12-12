@@ -18,5 +18,7 @@ module.exports = {
     'no-foreach': require('./lib/rules/no-foreach'),
     'no-split': require('./lib/rules/no-split'),
     'no-tostring': require('./lib/rules/no-tostring'),
+    'no-length': require('./lib/rules/no-length'),
+    'no-indexOf': require('./lib/rules/no-indexOf'),
   },
 };
